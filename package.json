@@ -76,7 +76,7 @@
     "webpack-manifest-plugin": "2.0.4",
     "workbox-webpack-plugin": "4.2.0"
   },
-  "homepage": "https://salihsarikaya.github.io/CampAlley",
+  "homepage": "https://salihsarikaya.github.io/CampAlley/",
   "scripts": {
     "start": "node scripts/start.js",
     "predeploy": "npm run build",
