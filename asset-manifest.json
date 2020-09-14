@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.js": "/CampAlley/static/js/main.7f18c81e.chunk.js",
+    "main.js.map": "/CampAlley/static/js/main.7f18c81e.chunk.js.map",
+    "runtime~main.js": "/CampAlley/static/js/runtime~main.0e707291.js",
+    "runtime~main.js.map": "/CampAlley/static/js/runtime~main.0e707291.js.map",
+    "static/css/2.bb926a4b.chunk.css": "/CampAlley/static/css/2.bb926a4b.chunk.css",
+    "static/js/2.fe0c0573.chunk.js": "/CampAlley/static/js/2.fe0c0573.chunk.js",
+    "static/js/2.fe0c0573.chunk.js.map": "/CampAlley/static/js/2.fe0c0573.chunk.js.map",
+    "index.html": "/CampAlley/index.html",
+    "precache-manifest.dc52a8f0a9b379621824e45ec5da1fed.js": "/CampAlley/precache-manifest.dc52a8f0a9b379621824e45ec5da1fed.js",
+    "service-worker.js": "/CampAlley/service-worker.js",
+    "static/css/2.bb926a4b.chunk.css.map": "/CampAlley/static/css/2.bb926a4b.chunk.css.map"
+  }
+}
