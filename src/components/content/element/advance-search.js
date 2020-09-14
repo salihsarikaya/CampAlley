@@ -11,8 +11,8 @@ export class AdvSearch extends Component {
                         <div className="row">
                             <div className="col-lg-10 offset-lg-1">
                                 <div className="search_title_area">
-                                    <h2 className="title">Find the Best Places to Be</h2>
-                                    <p className="sub_title">All the top locations – from restaurants and clubs, to galleries, famous places and more..</p>
+                                    <h2 className="title">Find the Best Campsites to Be</h2>
+                                    <p className="sub_title">All the top campsites – from national parks, tent camping, RV parks and cabins, to treehouses, famous places and more..</p>
                                 </div>{/* ends: .search_title_area */}
                                 <form action="/" className="search_form">
                                     <div className="atbd_seach_fields_wrapper">
@@ -44,26 +44,26 @@ export class AdvSearch extends Component {
                                     <ul className="categories">
                                         <li>
                                             <NavLink onClick={noAction} to="/at_demo">
-                                                <span className="color-primary"><i className="la la-cutlery" /></span>
-                                                Restaurants
+                                                <span className="color-primary"><i className="la la-tree" /></span>
+                                                National Parks
                                             </NavLink>
                                         </li>
                                         <li>
                                             <NavLink onClick={noAction} to="/at_demo">
                                                 <span className="color-success"><i className="la la-map-marker" /></span>
-                                                Places
+                                                State Parks
                                             </NavLink>
                                         </li>
                                         <li>
                                             <NavLink onClick={noAction} to="/at_demo">
                                                 <span className="color-warning"><i className="la la-shopping-cart" /></span>
-                                                Shopping
+                                                Private Campsites
                                             </NavLink>
                                         </li>
                                         <li>
                                             <NavLink onClick={noAction} to="/at_demo">
                                                 <span className="color-danger"><i className="la la-bed" /></span>
-                                                Hotels
+                                                Farms & Recrations
                                             </NavLink>
                                         </li>
                                     </ul>

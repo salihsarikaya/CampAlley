@@ -42,8 +42,8 @@ class Index extends Component {
                 <section className="categories-cards section-padding-two">
                     <div className="container">
                         <SectionTitle 
-                            title="What Kind of Activity do you Want to try?" 
-                            content="Discover best things to do restaurants, shopping, hotels, cafes and places around the world by categories."
+                            title="What Kind of Campsite do you want to try?" 
+                            content="Discover the best campsites around the world by filters."
                         />
                         <div className="row">
                             <CardCategoryGrid4 />
@@ -56,8 +56,8 @@ class Index extends Component {
                 <section className="listing-cards section-bg section-padding">
                     <div className="container">
                         <SectionTitle 
-                            title="Best Listings Around the World" 
-                            content="Explore the popular listings around the world"
+                            title="Best Campsites Around You!" 
+                            content="Explore the popular campsites around you!"
                         />
                         <div className="row">                        
                             <div className="listing-cards-wrapper col-lg-12">
@@ -79,8 +79,8 @@ class Index extends Component {
                 <section className="places section-padding">
                     <div className="container">
                         <SectionTitle 
-                            title="Destination We Love" 
-                            content="Explore best listings around the world by city"
+                            title="Destinations We Love!" 
+                            content="Explore best campsites around you by city"
                         />
                         <div className="row">
                             <div className="col-lg-12">
@@ -99,7 +99,7 @@ class Index extends Component {
                     <div className="container">
                         <SectionTitle 
                             title="Trusted By Over 4000+ Users" 
-                            content="Here is what people say about Direo"
+                            content="Here is what people say about CampAlley"
                         />
                         <div className="row">
                             <Testimonial />

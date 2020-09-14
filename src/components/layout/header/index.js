@@ -73,7 +73,7 @@ class Header extends Component {
                                                         <ul className="d-flex list-unstyled align-items-center">
                                                             <li>
                                                                 <NavLink to="/add-listing" className="btn btn-xs btn-gradient btn-gradient-two">
-                                                                    <span className="la la-plus"></span> Add Listing
+                                                                    <span className="la la-plus"></span> Add New Listing
                                                                 </NavLink>
                                                             </li>
                                                             <li>
@@ -86,7 +86,7 @@ class Header extends Component {
                                                         <ul className="d-flex list-unstyled align-items-center">
                                                             <li>
                                                                 <NavLink to="/add-listing" className="btn btn-xs btn-gradient btn-gradient-two">
-                                                                    <span className="la la-plus"></span> Add Listing
+                                                                    <span className="la la-plus"></span> Add New Listing
                                                                 </NavLink>
                                                             </li>
                                                             <li>					
@@ -117,9 +117,9 @@ class Header extends Component {
                                                     </div>
                                                     <ul className="list-unstyled">
                                                         <li><a href="dashboard-listings.html">My Profile</a></li>
-                                                        <li><a href="dashboard-listings.html">My Listing</a></li>
-                                                        <li><a href="dashboard-listings.html">Favorite Listing</a></li>
-                                                        <li><a href="add-listing.html">Add Listing</a></li>                                                        
+                                                        <li><a href="dashboard-listings.html">My Listings</a></li>
+                                                        <li><a href="dashboard-listings.html">My Favorite Listing</a></li>
+                                                        <li><a href="add-listing.html">Add New Listing</a></li>                                                        
                                                         <li><a href=" ">Logout</a></li>
                                                     </ul>
                                                     <div className="search_area">
